@@ -39,6 +39,7 @@
     gap: 10px;
     font-family: 'Inter', sans-serif;
     color: #ffffff;
+    padding: 20px
   }
 
   .top-bar {
