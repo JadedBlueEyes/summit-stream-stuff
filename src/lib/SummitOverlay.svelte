@@ -10,7 +10,7 @@
   import { history, undo, redo } from 'prosemirror-history';
 
   export let bannerText: string = "WIKI.MUSICBRAINZ.ORG/IRC";
-  export let summitSubheading: string = "SUMMIT 2025";
+  export let summitSubheading: string = "SUMMIT 2026";
 
   import navbarLogo from '../assets/metabrainz_compact_wordmark.svg';
   import smiley from '../assets/smiley.svg';
