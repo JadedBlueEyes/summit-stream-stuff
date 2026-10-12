@@ -1,4 +1,4 @@
-onlyBuiltDependencies:
-  - '@swc/core'
-  - cbor-extract
-  - esbuild
+allowBuilds:
+  '@swc/core': true
+  cbor-extract: true
+  esbuild: true
